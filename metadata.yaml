@@ -1,0 +1,52 @@
+_repo: The-book-of-the-American-Indian_75161
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Remington, Frederic
+    aliases:
+    - Remington, Frederic Sackrider
+    - Remington, Frederick
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: https://en.wikipedia.org/wiki/Frederic_Remington
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: https://en.wikipedia.org/wiki/Hamlin_Garland
+description: ''
+gutenberg_issued: '2025-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75161'
+  lccn: '23012977'
+language: en
+pgterms:marc904: https://archive.org/details/bookofamericanin01garl/page/n9/mode/2up
+pgterms:marc905: 20231228210356garland
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell, John Campbell and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bHarper & Brothers Publishers, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Indians of North America -- West (U.S.) -- History -- 19th century'
+- !lcsh 'Indians of North America -- West (U.S.) -- Social life and customs'
+- !lcc 'E011'
+- GITenberg
+tableOfContents: Wahiah, a Spartan mother -- Nistina -- The Iron Khiva -- The new
+  medicine house -- Rising Wolf, ghost dancer -- The river's warning -- Lone Wolf's
+  old guard -- Big Moggasen -- The storm-child -- The blood lust -- The remorse of
+  Waumdisapa -- A decree of council -- Drifting Crane -- The story of Howling Wolf
+  -- The silent eaters.
+title: The book of the American Indian
+url: http://www.gutenberg.org/ebooks/75161
