@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '2565'
     url: http://www.gutenberg.org/2009/agents/2565
     wikipedia: https://en.wikipedia.org/wiki/Frederic_Remington
+covers:
+- cover_type: archival
+  image_path: 75161-h/images/cover.jpg
 creator:
   author:
     agent_name: Garland, Hamlin
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1034
     wikipedia: https://en.wikipedia.org/wiki/Hamlin_Garland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75161#The-book-of-the-American-Indian
 gutenberg_issued: '2025-01-20'
 gutenberg_type: Text
 identifiers:
